@@ -1,0 +1,40 @@
+Log file created: Mon Apr  7 11:39:23 2025
+-------------------------------------------
+Ticks = 403      <9691175> <DynamicLink> <5> Increase wait time to 2
+Ticks = 1324      <9691175> <AnywhereLocalClient> <5> Local Hub HTTP port retrieved, port: 65276
+Ticks = 2098      <9691175> <GPUFoundation> <5> Done loading modules, sec: 0.285906, device: Metal(0)
+Ticks = 4123      <9691006> <AMEApp> <0> Time taken to load MediaCore plugins: 2302.19 milliseconds.
+Ticks = 4721      <9691006> <AMEApp> <1> Entering RunEventLoop
+Ticks = 5579      <9691175> <AMEFrontend> <5> PresetUI was unable to load the preset Match Source (Rewrap)
+Ticks = 6718      <9691062> <AMEApp> <5> Activated codec is: MPEG4
+Ticks = 6722      <9691062> <ExporterMPEG4> <5> Looking for H/W codecs for H.26x
+Ticks = 6722      <9691062> <ExporterMPEG4.VideoToolbox> <5> Using Native HW encode (VT HW)
+Ticks = 6734      <9691557> <EACL> <5> Connecting local hub to remote hub, requestID: "44b20c1f-9855-45aa-ae8b-d8181b57a042", server: "https://cc-api-teamprojects.adobe.io:443", serverType: 2, user: "stu234013@ardenuniversity.ac.uk", machineID: "8f56b1c7-8209-465a-aa3b-235d4926144b"
+Ticks = 6738      <9691062> <H26xCodec> <5> Found H/W codec for H.264 - Apple VideoToolBox Hardware Acceleration
+Ticks = 7538      <9691552> <CCFilesEOL> <5> Setting feature enabled: false, in app messaging enabled: false
+Ticks = 7639      <9691551> <dvanet::HTTP> <4> Mismatched HTTP response, requestID: "74d8c40c-07c9-4ad9-b6f9-c3e7b4eb05a5", expected: "dvanet-74d8c40c-07c9-4ad9-b6f9-c3e7b4eb05a5-c0e2825f-30a6-4841-a79c-915200d536b3-15", received: "dvanet-bfc4b531-a351-4360-81ff-62911bec7638-66a00b53-1ae5-48ce-8c78-c9b97d38b132-20", corrected: "dvanet-bfc4b531-a351-4360-81ff-62911bec7638-66a00b53-1ae5-48ce-8c78-c9b97d38b132-20"
+Ticks = 7639      <9691551> <EACL.CloudProjectsLogin> <5> Finished sending new access token to LocalHub, result: 0, requestID: "dvanet-44b20c1f-9855-45aa-ae8b-d8181b57a042-c0e2825f-30a6-4841-a79c-915200d536b3-8", duration: 0.547, httpStatusCode: 200, httpLibCode: 0, payload: "[{\"authorized\":true,\"connected\":true,\"forbidden\":{\"error_code\":\"\",\"message\":\"\"},\"lastAuthorizationStatusCode\":200,\"serverURL\":\"https://cc-api-teamprojects.adobe.io:443\",\"serverVersion\":\"2016.95.0.1292\"}]"
+Ticks = 8085      <9691062> <H26xCodec> <1> Encoded using Apple VideoToolBox Hardware Acceleration (H/W codec) for H.26x
+Ticks = 8091      <9691062> <H26xCodec> <1> Time taken for; video =0 audio=328 mux=2
+Ticks = 8091      <9691062> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1.37665 seconds. Result code: 0 Destination:/Users/komaldanish/Documents/RECOVER_RECOVER_final chess block.mp4
+Ticks = 148507      <9694764> <ExporterMPEG4> <5> Looking for H/W codecs for H.26x
+Ticks = 148507      <9694764> <ExporterMPEG4.VideoToolbox> <5> Using Native HW encode (VT HW)
+Ticks = 148521      <9694764> <H26xCodec> <5> Found H/W codec for H.264 - Apple VideoToolBox Hardware Acceleration
+Ticks = 149522      <9694764> <H26xCodec> <1> Encoded using Apple VideoToolBox Hardware Acceleration (H/W codec) for H.26x
+Ticks = 149528      <9694764> <H26xCodec> <1> Time taken for; video =0 audio=253 mux=2
+Ticks = 149528      <9694764> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1.02197 seconds. Result code: 0 Destination:/Users/komaldanish/Documents/RECOVER_RECOVER_final chess block_1.mp4
+Ticks = 305381      <9691006> <NGL> <5> GoCart invocation failed: 4
+Ticks = 3574264      <9765057> <H26xCodec> <1> Time taken for; video =2907 audio=191 mux=50
+Ticks = 3574269      <9765057> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 9.13172 seconds. Result code: 0 Destination:/Users/komaldanish/Library/Application Support/Adobe/Animate 2024/en_US/Configuration/tmp/socialshare_video_file.mp4
+Ticks = 3593283      <9765107> <H26xCodec> <1> Time taken for; video =3262 audio=197 mux=38
+Ticks = 3593290      <9765107> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 9.16754 seconds. Result code: 0 Destination:/Users/komaldanish/Library/Application Support/Adobe/Animate 2024/en_US/Configuration/tmp/socialshare_video_file_1.mp4
+Ticks = 6031232      <9803657> <ExporterMPEG4> <5> Looking for H/W codecs for H.26x
+Ticks = 6031232      <9803657> <ExporterMPEG4.VideoToolbox> <5> Using Native HW encode (VT HW)
+Ticks = 6031529      <9803657> <H26xCodec> <5> Found H/W codec for H.264 - Apple VideoToolBox Hardware Acceleration
+Ticks = 6032656      <9803657> <H26xCodec> <1> Encoded using Apple VideoToolBox Hardware Acceleration (H/W codec) for H.26x
+Ticks = 6032663      <9803657> <H26xCodec> <1> Time taken for; video =0 audio=283 mux=3
+Ticks = 6032663      <9803657> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1.43197 seconds. Result code: 0 Destination:/Users/komaldanish/Documents/RECOVER_RECOVER_final chess block_2.mp4
+Ticks = 7626508      <9691006> <AMEApp> <1> Exited RunEventLoop
+-------------------------------------------
+Log file closed: Mon Apr  7 13:46:30 2025
+
